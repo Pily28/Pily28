@@ -11,8 +11,8 @@ Priscilla Moncrieffe Profile
 Git Hub Profile
 
 
-<h2> Hi, I'm Priscilla ! <img src="https://user-images.githubusercontent.com/87598302/150201115-ccbb6de4-5f9d-4e03-be6d-e9fa31b81469.jpg" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<h2> Hi, I'm Priscilla ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://user-images.githubusercontent.com/87598302/150201432-1fedd817-94ad-4d67-814f-a39531110d96.jpg" width="230">
 <p><em>Software Enginner at <a href="http://www.unb.br">University International of Americas </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Front End Software Developer👩🏻‍💻👩🏻‍💻
 	
 [![Twitter: @PilyMoncri](https://img.shields.io/twitter/follow/PilyMoncri?style=social)](https://twitter.com/PilyMoncri)
@@ -48,7 +48,7 @@ func GetBio() Bio {
 
 
 
-![Priscilla](https://user-images.githubusercontent.com/87598302/148138525-7e80e576-c33d-47c3-97d8-c5e42fa77dec.jpg)
+
 
 
 
