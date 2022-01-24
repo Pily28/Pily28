@@ -4,14 +4,7 @@
 
 <h2 font-size="10px"><em>Software Enginner student at Universidad Internacional de las Americas <a href="http://www.unb.br"</a<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Front End Software Developer👩🏻‍💻👩🏻‍💻
 	
-	
-	
-	
-	
-	
-	
-	
-<img src="https://user-images.githubusercontent.com/87598302/150879501-5f61bfb9-cb95-41c0-a36d-6d6a4af62612.png" width="1200px" height="600px">
+<img src="https://user-images.githubusercontent.com/87598302/150879501-5f61bfb9-cb95-41c0-a36d-6d6a4af62612.png" width="1200px" height="200px">
 
 	
 	
