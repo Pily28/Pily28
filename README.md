@@ -16,7 +16,7 @@
 	
 	
 ![Twitter Follow](https://img.shields.io/twitter/follow/PilyMoncri?label=Follow)
-[![Linkedin: priscilla-2815](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link="https://www.linkedin.com/in/priscilla-2815m](https:/www.linkedin.com/in/priscilla-2815m)
+[![Linkedin: priscilla-2815]https://www.linkedin.com/in/priscilla-2815m](https:/www.linkedin.com/in/priscilla-2815m)
 ![GitHub followers](https://img.shields.io/github/followers/Pily28?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
 
