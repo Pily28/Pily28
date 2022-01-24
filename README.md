@@ -1,10 +1,12 @@
-
+Hello, my name is Priscilla Moncrieffe 
 
 
 
 
 <h1 Hello, My name is  Priscilla! font-size="50" <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"></h1>
-<h2 font-size="10px"><em>Software Enginner student or Front end Software developer at <a href="http://www.unb.br"</a<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Front End Software Developer👩🏻‍💻👩🏻‍💻
+
+
+<h2 font-size="10px"><em>Software Enginner student at Universidad Internacional de las Americas <a href="http://www.unb.br"</a<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Front End Software Developer👩🏻‍💻👩🏻‍💻
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 	                         
