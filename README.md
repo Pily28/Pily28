@@ -15,15 +15,9 @@
 <h2 align="center">You can reach me at :alien:</h2> 
 	
 	
-![Twitter Follow](https://img.shields.io/twitter/follow/PilyMoncri?label=Follow)
-[![Linkedin: priscilla-2815]https://www.linkedin.com/in/priscilla-2815m](https:/www.linkedin.com/in/priscilla-2815m)
-![GitHub followers](https://img.shields.io/github/followers/Pily28?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-
-	
-  
-<br>
-	
+[![Twitter: PilyMoncri](https://img.shields.io/twitter/follow/?style=social)](https://twitter.com/PilyMoncri)
+[![Linkedin: priscilla-2815m](https://img.shields.io/badge/-priscilla-2815m-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priscilla-2815m/)](https://www.linkedin.com/in/priscilla-2815m/)
+[![GitHub Pily28](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Pily28)
 	
 	Welcome to my GitHub! I'm Priscilla, a software engineering student. When I am not studying or programming, I used to travel to different places and putting in practice my another love that is photograpgy , also very interested in knowing or learning languages , I'm very friendship by the way 
 
