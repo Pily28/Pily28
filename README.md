@@ -1,11 +1,10 @@
-### Hi there 👋
 
 
 
 
-<h2> Hi, I'm Priscilla ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<p><em>Software Enginner at <a href="http://www.unb.br">University International of Americas </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Front End Software Developer👩🏻‍💻👩🏻‍💻
+<h2> Hello, My name is  Priscilla ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<p><em>Software Enginner student or Front end Software developer at <a href="http://www.unb.br"</a<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Front End Software Developer👩🏻‍💻👩🏻‍💻
 	
 [![Twitter: @PilyMoncri](https://img.shields.io/twitter/follow/PilyMoncri?style=social)](https://twitter.com/PilyMoncri)
 [![Linkedin: priscilla-2815m15](https://img.shields.io/badge/-priscilla-2815m15-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/priscilla-2815m15/)](www.linkedin.com/in/priscilla-2815m15)
