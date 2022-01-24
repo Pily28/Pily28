@@ -22,3 +22,14 @@
   </a>
   
 <br>
+	
+	
+	Welcome to my GitHub! I'm Priscilla, a software engineering student. When I am not studying or programming, I used to travel to different places and putting in practice my another love that is photograpgy , also very interested in knowing or learning languages , I'm very friendship by the way 
+
+### ✔️ I'm currently learning
+- React and getting more knowledge or brushing up my Front End software developer skills
+-Learning SQL and Pythong
+
+### 😍 What i like to do:
+- I like challenges, learning, LOGICAL PROBLEMS, reading and travelling WHY NOT?? !!!
+
