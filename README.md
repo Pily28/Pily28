@@ -1,4 +1,4 @@
-# Hello my nama is Priscilla Moncrieffe
+# Hello my name is Priscilla Moncrieffe
 
 
 
