@@ -66,6 +66,7 @@ Welcome to my GitHub! I'm Priscilla, a software engineering student. When I am n
 [![MEGA](https://img.shields.io/badge/-MEGA-444444?style=flat&logo=mega&logoColor=D9272E)](ttps://github.com/meganz/)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
 [![Sublime text Code](https://img.shields.io/badge/-SublimeText-444444?style=flat&logo=Sublime-Text-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
+[![Babel](https://img.shields.io/badge/-Babel-444444?style=flat&logo=Babel-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
 	
 	
 	
