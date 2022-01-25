@@ -13,9 +13,9 @@
 	
 	
 <h2 align="center">You can reach me at :alien:</h2> 
+	ton9@gmail.com)
 	
-
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Priscilla: priosjaicar28@gmail.com)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](priscilla:priosjaicar28@gmail.com)	
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priscilla-2815m)
 
 	
@@ -36,6 +36,7 @@ Welcome to my GitHub! I'm Priscilla, a software engineering student. When I am n
 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=postgresql)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
