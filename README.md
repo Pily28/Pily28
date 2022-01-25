@@ -18,6 +18,7 @@
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](priscilla:priosjaicar28@gmail.com)	
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priscilla-2815m)
 
+<br/>
 	
 Welcome to my GitHub! I'm Priscilla, a software engineering student. When I am not studying or programming, I used to travel to different places and putting in practice my another love that is photograpgy , also very interested in knowing or learning languages , I'm very friendship by the way 
 
