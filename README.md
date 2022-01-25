@@ -49,8 +49,10 @@ Welcome to my GitHub! I'm Priscilla, a software engineering student. When I am n
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
-![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
-![XCode](https://img.shields.io/badge/-XCode-222222?style=flat&logo=XCode&logoColor=1575F9)
+![SASS](https://img.shields.io/badge/-SASS-222222?style=flat&logo=SASS&logoColor=61DAFB)
+![Boostrap](https://img.shields.io/badge/-Bootstrap-222222?style=flat&logo=Bootstrapt&logoColor=61DAFB)
+![SASS](https://img.shields.io/badge/-LESS-222222?style=flat&logo=LESS&logoColor=61DAFB)
+
 
 	
 	## Some of my Tools
@@ -58,6 +60,7 @@ Welcome to my GitHub! I'm Priscilla, a software engineering student. When I am n
 
 [![MEGA](https://img.shields.io/badge/-MEGA-444444?style=flat&logo=mega&logoColor=D9272E)](ttps://github.com/meganz/)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
+[![Sublime text Code](https://img.shields.io/badge/-SublimeText-444444?style=flat&logo=SublimeText-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
 
 
 
