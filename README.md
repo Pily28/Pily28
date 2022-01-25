@@ -50,8 +50,8 @@ Welcome to my GitHub! I'm Priscilla, a software engineering student. When I am n
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![SASS](https://img.shields.io/badge/-SASS-222222?style=flat&logo=SASS&logoColor=61DAFB)
-![Boostrap](https://img.shields.io/badge/-Bootstrap-222222?style=flat&logo=Bootstrapt&logoColor=61DAFB)
-![SASS](https://img.shields.io/badge/-LESS-222222?style=flat&logo=LESS&logoColor=61DAFB)
+![BOOTSTRAP](https://img.shields.io/badge/-Bootstrap-222222?style=flat&logo=Bootstrapt&logoColor=61DAFB)
+![LESS](https://img.shields.io/badge/-LESS-222222?style=flat&logo=LESS&logoColor=61DAFB)
 
 
 	
@@ -60,7 +60,7 @@ Welcome to my GitHub! I'm Priscilla, a software engineering student. When I am n
 
 [![MEGA](https://img.shields.io/badge/-MEGA-444444?style=flat&logo=mega&logoColor=D9272E)](ttps://github.com/meganz/)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
-[![Sublime text Code](https://img.shields.io/badge/-SublimeText-444444?style=flat&logo=SublimeText-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
+[![Sublime text Code](https://img.shields.io/badge/-SublimeText-444444?style=flat&logo=Sublime-Text-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
 
 
 
