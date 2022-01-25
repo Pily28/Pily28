@@ -32,6 +32,11 @@ Welcome to my GitHub! I'm Priscilla, a software engineering student. When I am n
 	
 	
 	
+	
+	
+	
+<br/>	
+	
 	**Frontend Development Skills**
 
 
