@@ -14,10 +14,10 @@
 	
 <h2 align="center">You can reach me at :alien:</h2> 
 	
-	
-[![Twitter: PilyMoncri](https://img.shields.io/twitter/follow/?style=social)](https://twitter.com/PilyMoncri)
-[![Linkedin: priscilla-2815m](https://img.shields.io/badge/-priscilla-2815m-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priscilla-2815m/)](https://www.linkedin.com/in/priscilla-2815m/)
-[![GitHub Pily28](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Pily28)
+
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Priscilla: priosjaicar28@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priscilla-2815m)
+
 	
 Welcome to my GitHub! I'm Priscilla, a software engineering student. When I am not studying or programming, I used to travel to different places and putting in practice my another love that is photograpgy , also very interested in knowing or learning languages , I'm very friendship by the way 
 
@@ -52,7 +52,7 @@ Welcome to my GitHub! I'm Priscilla, a software engineering student. When I am n
 ![XCode](https://img.shields.io/badge/-XCode-222222?style=flat&logo=XCode&logoColor=1575F9)
 
 	
-	##### some of my Tools
+	## Some of my Tools
 
 
 [![MEGA](https://img.shields.io/badge/-MEGA-444444?style=flat&logo=mega&logoColor=D9272E)](ttps://github.com/meganz/)
