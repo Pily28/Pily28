@@ -23,7 +23,7 @@ Welcome to my GitHub! I'm Priscilla, a software engineering student. When I am n
 
 ### ✔️ I'm currently learning
 - React and getting more knowledge or brushing up my Front End software developer skills
--Learning SQL and Pythong
+-Learning SQL and Python
 
 ### 😍 What i like to do:
 - I like challenges, learning, LOGICAL PROBLEMS, reading and travelling WHY NOT?? !!!
@@ -41,7 +41,7 @@ Welcome to my GitHub! I'm Priscilla, a software engineering student. When I am n
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
-##### Some of the technologies I have worke with
+##### Some of the technologies I have work with
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
