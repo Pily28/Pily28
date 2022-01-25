@@ -12,8 +12,8 @@
 <h2 align="center">About me</h2>
 	
 	
-<h2 align="center">You can reach me at :alien:</h2> 
-	ton9@gmail.com)
+## Reach me 
+	
 	
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](priscilla:priosjaicar28@gmail.com)	
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priscilla-2815m)
@@ -31,7 +31,7 @@ Welcome to my GitHub! I'm Priscilla, a software engineering student. When I am n
 	
 	
 	
-	##### Languages I use
+	**Frontend Development Skills**
 
 
 
@@ -41,7 +41,7 @@ Welcome to my GitHub! I'm Priscilla, a software engineering student. When I am n
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
-##### Some of the technologies I have worked with
+##### Some of the technologies I have worke with
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
@@ -53,6 +53,20 @@ Welcome to my GitHub! I'm Priscilla, a software engineering student. When I am n
 ![BOOTSTRAP](https://img.shields.io/badge/-Bootstrap-222222?style=flat&logo=Bootstrapt&logoColor=61DAFB)
 ![LESS](https://img.shields.io/badge/-LESS-222222?style=flat&logo=LESS&logoColor=61DAFB)
 
+	
+<h2 align="center">Github stats :bar_chart:</h2>
+
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+
+<h4 align="center">Top langs :tongue:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+
+<h4 align="center">Profile stats :musical_keyboard:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
 
 	
 	## Some of my Tools
@@ -61,6 +75,9 @@ Welcome to my GitHub! I'm Priscilla, a software engineering student. When I am n
 [![MEGA](https://img.shields.io/badge/-MEGA-444444?style=flat&logo=mega&logoColor=D9272E)](ttps://github.com/meganz/)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
 [![Sublime text Code](https://img.shields.io/badge/-SublimeText-444444?style=flat&logo=Sublime-Text-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
+	
+	
+	
 
 
 
