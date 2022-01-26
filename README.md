@@ -27,7 +27,7 @@ Welcome to my GitHub! I'm Priscilla, a software engineering student. When I am n
 -Learning SQL and Python
 
 ###👩🏾‍💻💞 What i like to do:
-- I like challenges, learning, LOGICAL PROBLEMS, reading and travelling WHY NOT?? !!!
+- I like challenges, learning,reading and travelling WHY NOT?? !!!
 	
 	
 	
