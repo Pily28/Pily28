@@ -72,10 +72,6 @@ Welcome to my GitHub! I'm Priscilla, a software engineering student. When I am n
 	
 <h2 align="center">Github stats :Pily28:</h2>
 
-<h4 align="center">Visitor's count :eyes:</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{Pily28}/count.svg" alt="Pily28 :: Visitor's Count" /></p>
-
 <h4 align="center">Top langs :tongue:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pily28&langs_count=10&theme=tokyonight&layout=compact" alt="Pily28:: Top Langs" /></p>
