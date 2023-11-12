@@ -19,8 +19,8 @@
 Welcome to my GitHub! I'm Priscilla, a software engineering student. When I am not studying or programming, I used to travel to different places and putting in practice my another love that is photography , also very interested in knowing or learning languages , I'm very friendly by the way 
 
 ### 🥰 I'm currently learning
-- React and getting more knowledge or brushing up my Front End software developer skills
--Learning SQL and Python
+- React and getting more knowledge or brushing up 
+-Learning #C and brushing my knowledge in: python , java and js.
 
 ###👩🏾‍💻💞 What i like to do:
 - I like challenges, learning,reading and travelling WHY NOT?? !!!
@@ -33,15 +33,6 @@ Welcome to my GitHub! I'm Priscilla, a software engineering student. When I am n
 	
 <br/>	
 	
-	**Frontend Development Skills**
-
-
-
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=postgresql)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
 ##### Some of the technologies I have worked with
 
@@ -53,16 +44,8 @@ Welcome to my GitHub! I'm Priscilla, a software engineering student. When I am n
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![SASS](https://img.shields.io/badge/-SASS-222222?style=flat&logo=SASS&logoColor=61DAFB)
 ![BOOTSTRAP](https://img.shields.io/badge/-Bootstrap-222222?style=flat&logo=Bootstrapt&logoColor=61DAFB)
-![LESS](https://img.shields.io/badge/-LESS-222222?style=flat&logo=LESS&logoColor=61DAFB)
-
-	
-	## Some of my Tools
 
 
-[![MEGA](https://img.shields.io/badge/-MEGA-444444?style=flat&logo=mega&logoColor=D9272E)](ttps://github.com/meganz/)
-[![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
-[![Sublime text Code](https://img.shields.io/badge/-SublimeText-444444?style=flat&logo=Sublime-Text-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
-[![Babel](https://img.shields.io/badge/-Babel-444444?style=flat&logo=Babel-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
 	
 	
 	
