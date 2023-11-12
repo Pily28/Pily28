@@ -2,11 +2,7 @@
 
 
 
-<h2 font-size="10px"><em>Software Enginner student at Universidad Internacional de las Americas <a href="#"</a<img src="https://uia.co.cr/carreras-universitarias/?msclkid=3a530af1dda1151aa73e6b014727c996&utm_source=bing&utm_medium=cpc&utm_campaign=UIA%3EBrand%3ESearch&utm_term=uia%20costa%20rica&utm_content=General" width="30"></br>Front End Software Developer👩🏻‍💻👩🏻‍💻
-	
-<img src="https://user-images.githubusercontent.com/87598302/150879501-5f61bfb9-cb95-41c0-a36d-6d6a4af62612.png" width="950px" height="600px">
-
-	
+<h2 font-size="10px"><em>Software Enginner student at Universidad Internacional de las Americas <a href="#"</a<img src="https://uia.co.cr/carreras-universitarias/?msclkid=3a530af1dda1151aa73e6b014727c996&utm_source=bing&utm_medium=cpc&utm_campaign=UIA%3EBrand%3ESearch&utm_term=uia%20costa%20rica&utm_content=General" width="30"></br>
 	
 
 <h2 align="center">About me</h2>
